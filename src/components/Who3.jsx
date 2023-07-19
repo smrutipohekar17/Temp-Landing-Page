@@ -101,7 +101,7 @@ const Who = () => {
           <Desc>
           Interact on online meets with Peers!
           </Desc>
-          <Button>Click here to continue</Button>
+          <Button>Click here to continue...</Button>
         </Right>
       </Container>
     </Section>
