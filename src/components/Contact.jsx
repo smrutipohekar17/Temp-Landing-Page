@@ -4,7 +4,7 @@ import styled from "styled-components";
 import Map from "./Map";
 
 const Section = styled.div`
-  height: 100vh;
+  height: 100px;
   scroll-snap-align: center;
 `;
 

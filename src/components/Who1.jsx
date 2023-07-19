@@ -93,19 +93,19 @@ const Who = () => {
           </Canvas>
         </Left>
         <Right>
-          <Title>Task Collaborator</Title>
+          <Title>Discussion Forum</Title>
           <WhatWeDo>
             <Line src="./img/line.png" />
             <Subtitle>Who we Are</Subtitle>
           </WhatWeDo>
           <Desc>
-            Collaborate and Manage tasks among peers!
+            Discuss doubts and solutions among Peers!
           </Desc>
-          <Button>Click here to continue</Button>
+          <Button>Click here to Continue</Button>
         </Right>
       </Container>
     </Section>
   );
 };
 
-export default Who;
+export default Who1;
